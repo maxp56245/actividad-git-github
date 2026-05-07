@@ -17,3 +17,6 @@ Git es una herramienta que sirve para guardar cambios en un proyecto, volver a v
 GitHub es una plataforma online que permite almacenar repositorios Git en la nube y compartirlos con otras personas. 
 Creo que necesitamos ambas herramientas porque Git se encarga del control de versiones y GitHub permite guardar esos proyectos online y poder trabajar con otras personas.
 Sí, es posible usar Git sin GitHub, porque Git funciona de manera local en la computadora. Sin embargo, 
+## Branches (ramas)
+
+En mi vida estudiantil me gustaría usar algo parecido cuando hago trabajos prácticos o proyectos muy largos porque estoy me ayudaria, si quiero probar algo nuevo o agregar funciones distintas, podría crear una rama para experimentar sin arruinar la versión principal que ya funciona.
