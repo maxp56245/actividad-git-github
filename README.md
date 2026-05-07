@@ -69,3 +69,13 @@ En los proyectos que realice durante este año escolar usaría Git y GitHub para
 Mi flujo de trabajo sería comenzar creando un repositorio, después ir desarrollando el proyecto poco a poco y realizando commits cada vez que complete cambios importantes.
 
 Finalmente, antes de entregar el proyecto, revisaría el historial de commits y la documentación para asegurarme de que todo esté organizado correctamente.
+## Aprendizaje continuo
+
+Me interesa mejorar mi manejo de Git y obviamente aprender funciones no vistas como (GitHub Actions, GitHub Pages, webhooks, etc.).
+
+Pienso continuar aprendiendo de forma autodidacta mediante práctica, viendo algun que otro tutorial y utilizando Git y GitHub en futuros proyectos escolares o personales.
+## Impacto en tu carrera
+
+Creo que dominar Git y GitHub puede ser muy importante para mis oportunidades profesionales futuras, porque son herramientas muy utilizadas en el mundo de la programación.
+
+Pienso que junto con Git y GitHub también debería desarrollar otras habilidades como programación, resolución de problemas, trabajo en equipo y pensamiento critico para ser un profesional más completo.
