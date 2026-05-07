@@ -34,3 +34,9 @@ En cuanto a habilidades tecnicas para resolver conflictos creo que deberia saber
 
 Me gustaría tener en mi perfil proyectos relacionados con programación, páginas web, aplicaciones y proyectos relacionados a lo que aprendi cursando la especialidad computación.
 También creo que tener proyectos públicos puede servir para mostrar experiencia, y práctica real al momento de buscar trabajo.
+## Código abierto
+
+Creo que compartir código públicamente tiene ventajas importantes, como recibir ayuda de otras personas, aprender nuevas formas de programar y colaborar en proyectos más grandes.
+Sin embargo, también creo que existen ciertos riesgos, como que otras personas copien trabajos.
+
+Personalmente, no tendría problema en compartir algunos proyectos escolares, especialmente aquellos que me hayan ayudado a aprender.
