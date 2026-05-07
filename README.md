@@ -30,3 +30,7 @@ Creo que esto cambio mucho la forma de trabajar en equipo principalmente creo qu
 ## Resolucion de conflictos
  
 En cuanto a habilidades tecnicas para resolver conflictos creo que deberia saber como utilizar de forma correcta git para asi poder comparar versiones y poder solucionar cualquier error o problema que surga, y como hbilidad principalmente tener buena comunicación y saber desempeñarme bien en trabajos en equipo.
+## Portafolio digital
+
+Me gustaría tener en mi perfil proyectos relacionados con programación, páginas web, aplicaciones y proyectos relacionados a lo que aprendi cursando la especialidad computación.
+También creo que tener proyectos públicos puede servir para mostrar experiencia, y práctica real al momento de buscar trabajo.
