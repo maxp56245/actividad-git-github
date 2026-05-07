@@ -52,3 +52,20 @@ Creo que la posibilidad de volver atrás cuando algo sale mal ayuda mucho al apr
 la cual muchas veces es reprimida por miedo a la equivocación, sin embargo gracias a herramienta como justamente Git que facilitan el proceso de recuperar versiones anteriores del proyecto no es tan preocupante el cometer un error.
 
 Sin embargo, también pienso que puede generar un habito o tendencia a ser mas descuidado a la hora de realizar un proyecto, ya que saber que puedes volver a una version anterior te da una cierta tranquilidad. Siento que en cierta forma si podria ser una desventaja.
+## Documentación vs. Código
+
+Personalmente creo que el codigo debe ser lo mas claro y entendible posible, pero no por ello la documentacion pasa a ser innecesaria, ya que esta no muchas no solo explica el codigo sino el porque se decidio hacer asi, como funciona el programa, cual es el objetivo exacto de ciertas partes particualres dentro del codigo. Por eso creo que un balance seria un codigo claro y facil de leer pero acompañado de una documentacion clara y util.
+## Dependencia de plataformas
+
+Creo que depender de una plataforma tan grande como GitHub tiene ventajas y desventajas. Por un lado, facilita mucho el trabajo, el almacenamiento de proyectos y la colaboración entre personas.
+Sin embargo, también significa depender de una empresa privada como Microsoft, que puede cambiar políticas, funciones o condiciones de uso en cualquier momento.
+
+No ninguna alternativa actualmente.
+
+No creo que haga falta preocuparse como tal pero si tener en cuenta lo antes mencionado que microsoft es privado, que muchas cosas pueden cambiar, etc. Creo que lo mejor es investigar otras alternativas y no depender unica y exclusivamente de una sola plataforma.
+## Integración con tu flujo de trabajo
+
+En los proyectos que realice durante este año escolar usaría Git y GitHub para guardar versiones del trabajo, organizar cambios y mantener una copia de seguridad online.
+Mi flujo de trabajo sería comenzar creando un repositorio, después ir desarrollando el proyecto poco a poco y realizando commits cada vez que complete cambios importantes.
+
+Finalmente, antes de entregar el proyecto, revisaría el historial de commits y la documentación para asegurarme de que todo esté organizado correctamente.
