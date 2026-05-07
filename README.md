@@ -27,3 +27,6 @@ Dentro de sus ventajas esta que facilita compartir ideas, dividir tareas y el po
 Y dentro de sus desventajas creo que puede llegar a haber problemas de comunicación, diferencias de horarios o surgir algun cuando varias personas modifican el mismo archivo.
 
 Creo que esto cambio mucho la forma de trabajar en equipo principalmente creo que la comunicación es lo que puede verse mas afectado a su vez el no estar trabajando todos en un mismo lugar fisico obliga a que tenga que haber una buena organizacion ya que no todos los implicados en el proyecto van a trabajar en el mismo horario ni de la misma forma.
+## Resolucion de conflictos
+ 
+En cuanto a habilidades tecnicas para resolver conflictos creo que deberia saber como utilizar de forma correcta git para asi poder comparar versiones y poder solucionar cualquier error o problema que surga, y como hbilidad principalmente tener buena comunicación y saber desempeñarme bien en trabajos en equipo.
