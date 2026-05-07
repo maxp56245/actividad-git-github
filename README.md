@@ -40,3 +40,9 @@ Creo que compartir código públicamente tiene ventajas importantes, como recibi
 Sin embargo, también creo que existen ciertos riesgos, como que otras personas copien trabajos.
 
 Personalmente, no tendría problema en compartir algunos proyectos escolares, especialmente aquellos que me hayan ayudado a aprender.
+## Historial de cambios
+
+Creo que mantener un registro de todos los cambios realizados en un proyecto aumenta la responsabilidad individual, porque cada integrante puede ver qué hizo cada persona y cuándo lo hizo.
+Pienso que esto es positivo porque ayuda a organizar mejor el trabajo, detectar errores y entender cómo fue evolucionando el proyecto.
+
+Personalmente no creo que esto genere presion sobre otra persona de hecho todo lo contrario creo el saber que estas haciendo o quien hizo tal cosa ayuda a que todos estemos mejor organizados.
