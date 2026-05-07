@@ -46,3 +46,9 @@ Creo que mantener un registro de todos los cambios realizados en un proyecto aum
 Pienso que esto es positivo porque ayuda a organizar mejor el trabajo, detectar errores y entender cómo fue evolucionando el proyecto.
 
 Personalmente no creo que esto genere presion sobre otra persona de hecho todo lo contrario creo el saber que estas haciendo o quien hizo tal cosa ayuda a que todos estemos mejor organizados.
+## Errores y reversión
+
+Creo que la posibilidad de volver atrás cuando algo sale mal ayuda mucho al aprendizaje y sobre todo a la experimentación, 
+la cual muchas veces es reprimida por miedo a la equivocación, sin embargo gracias a herramienta como justamente Git que facilitan el proceso de recuperar versiones anteriores del proyecto no es tan preocupante el cometer un error.
+
+Sin embargo, también pienso que puede generar un habito o tendencia a ser mas descuidado a la hora de realizar un proyecto, ya que saber que puedes volver a una version anterior te da una cierta tranquilidad. Siento que en cierta forma si podria ser una desventaja.
